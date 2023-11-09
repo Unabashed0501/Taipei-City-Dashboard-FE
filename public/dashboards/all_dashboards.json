@@ -72,6 +72,12 @@
 				"106"
 			],
 			"icon": "public"
+		},
+		{
+			"name": "test",
+			"index": "library",
+			"components": ["1", "42", "22", "79", "60", "107"],
+			"icon": "favorite"
 		}
 	]
 }
